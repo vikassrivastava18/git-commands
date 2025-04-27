@@ -22,5 +22,12 @@ AMEND
 
 STASH
 1) git stash -> git pop
-2) 
+2) a) git stash save {stash_name} - save some changes with an stah name.
+   b) git stash list - Get all the stash listed, shown with index.
+   c) git stash apply 1  - bring the stash back to staging area.
+
+
+REBASE
+1) git rebase {branch_name} - merges a branch as if the feature was not a separate branch but added to the merged branch. 
+
 
