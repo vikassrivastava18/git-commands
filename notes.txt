@@ -1,0 +1,1 @@
+Git merge merges b1 to current branche if there are no merge conflicts.
