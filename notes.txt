@@ -16,7 +16,8 @@ Similar to reset --hard, but keeps the bad(or unexpected) commit to the commit h
 
 
 AMEND
-git amend
+git commit --amend -m "{}" - Update the commikt message.
+
 
 
 
