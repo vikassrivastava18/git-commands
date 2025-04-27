@@ -16,8 +16,9 @@ Similar to reset --hard, but keeps the bad(or unexpected) commit to the commit h
 
 
 AMEND
-git commit --amend -m "{}" - Update the commikt message.
-
+1) git commit --amend -m "{}" - Update the commit message.
+2) a) git add {file} - Add a file you forgot to add.
+   b) git commit --amend --no-edit - Add file to previous commit.
 
 
 
