@@ -1,1 +1,2 @@
 Just a test file.
+1 Add stash first
