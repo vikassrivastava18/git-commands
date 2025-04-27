@@ -1,1 +1,11 @@
-Git merge merges b1 to current branche if there are no merge conflicts.
+RESET:
+
+1) git reset - Reset to previus commit if a bad file has been added to staging area.
+
+git add bad.md
+git reset
+
+2) git reset {commit hash} - If a bad commit is made, reset to previous commit using the id from log history. This deletes the bad commit from history, but keeps ths changes
+in staging area as before.
+
+3) git reset --hard {hash} - Resets to older commit, file changes are gone!
