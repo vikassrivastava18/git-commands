@@ -9,3 +9,14 @@ git reset
 in staging area as before.
 
 3) git reset --hard {hash} - Resets to older commit, file changes are gone!
+
+
+REVERT:
+Similar to reset --hard, but keeps the bad(or unexpected) commit to the commit history.
+
+
+AMEND
+git amend
+
+
+
