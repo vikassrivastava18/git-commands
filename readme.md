@@ -1,1 +1,1 @@
-# Git commands learning modified from remote
+# Git commands learning modified from remote.
