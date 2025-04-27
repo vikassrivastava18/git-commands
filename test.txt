@@ -3,3 +3,4 @@ Just a test file.
 
 a) Add first dummy commit.
 b) Add second dummy commit.
+c) Add third dummy commit.
