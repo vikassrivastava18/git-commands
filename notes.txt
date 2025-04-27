@@ -20,5 +20,7 @@ AMEND
 2) a) git add {file} - Add a file you forgot to add.
    b) git commit --amend --no-edit - Add file to previous commit.
 
-
+STASH
+1) git stash -> git pop
+2) 
 
