@@ -2,3 +2,4 @@ Just a test file.
 1 Add stash first
 
 a) Add first dummy commit.
+b) Add second dummy commit.
